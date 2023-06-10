@@ -1,19 +1,11 @@
 -- import: fastn
 
--- fastn.package: sujal-2820.github.io/portfolio
-favicon: /-/sujal-2820.github.io/portfolio/favicon.ico
+-- fastn.package: ayushsoni1010.me
 
+-- fastn.dependency: fifthtry.github.io/doc-site as ds
+-- fastn.dependency: fifthtry.github.io/bling as bling
+-- fastn.dependency: ayushsoni1010.github.io/ui-packages as ui-packages
 
--- fastn.dependency: fastn-community.github.io/doc-site as ds
--- fastn.dependency: fastn-community.github.io/footer
-
+-- fastn.auto-import: bling/chat as chat
 -- fastn.auto-import: ds
--- fastn.auto-import: sujal-2820.github.io/portfolio/FASTN/my-ds
--- fastn.auto-import: sujal-2820.github.io/portfolio/assets
-
-
--- fastn.sitemap:
-
-# Home Page: /
-
-- Page with Right Sidebar: /sidebar/
+-- fastn.auto-import: ui-packages
